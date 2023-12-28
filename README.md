@@ -8,7 +8,7 @@ Repositório para armazenar resumos Git e GITHUB do curso de Versionamento de C�
 -[Documentação GITHUB](https://github.com/)
 
 ## 💻 Resumos das Aulas
-|Aulas|Resumos|
+|Aulas|Resumo|
 |-----|------|
 |Gravando Alterações no Repositório Local |[(https://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository)]
 `´ `
